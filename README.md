@@ -1,7 +1,6 @@
 # onboarding-guest-for-hotel-
 
-to run backend 
-<br>
+<h3>to run backend </h3>
 Step 1 :- In backend add env file and add :- 
 <br>
 1)PORT no :-
@@ -9,12 +8,12 @@ Step 1 :- In backend add env file and add :-
 2)MONGODB_URI:-
 <br>
 3)JWT_auth:- 
+<br>
 Step 2 :- npm install
 <br>
-step 3 :- npm run dev 
+Step 3 :- npm run dev 
 <br>
-To run frontend 
+<h3>To run frontend</h3> 
+Step 1 :- npm install
 <br>
-step 1 :- npm install
-<br>
-step 2 :- npm run dev 
+Step 2 :- npm run dev 

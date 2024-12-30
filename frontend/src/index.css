@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p-dialog-footer{
+    display: flex;
+    justify-content: end;
+    gap: 23px;
+}
+.p-inputtext{
+    border: 2px solid;
+}
+/* p-dialog-center p-component-overlay p-component-overlay-enter p-dialog-draggable p-dialog-resizable */
+.p-datepicker-group-container{
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 25vw;
+} 
+.p-dropdown-panel{
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 25vw;   
+}
+.p-dropdown-item{
+    border-bottom: 1px solid grey;
+    margin: 10px;
+}
+.p-dropdown-label{
+    border: none;
+}
+.p-inputtext{
+    border: none;
+}
+.p-dialog-title{
+    text-align:center;
+    font-size: large;
+    font-weight: bold;
+}
